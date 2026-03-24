@@ -24,4 +24,4 @@ Source code is maintained privately.
 
 ---
 
-Latest release: **v1.0.4**
+Latest release: **v1.0.5**
