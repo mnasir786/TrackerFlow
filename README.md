@@ -25,4 +25,4 @@ Source code is maintained privately.
 
 ---
 
-Latest release: **v1.0.15**
+Latest release: **v1.0.16**
