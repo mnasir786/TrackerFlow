@@ -32,4 +32,4 @@ Source code is maintained privately.
 
 ---
 
-Latest release: **v1.0.17**
+Latest release: **v1.0.18**
