@@ -6,9 +6,9 @@ Download the latest version from the [Releases page](https://github.com/mnasir78
 
 | Platform | File |
 |----------|------|
-| macOS Apple Silicon (M1/M2/M3) | `TrackFlow-v1.0.32-arm64.dmg` |
-| macOS Intel | `TrackFlow-v1.0.32.dmg` |
-| Windows | `TrackFlow-v1.0.32-x64.zip` |
+| macOS Apple Silicon (M1/M2/M3) | `TrackFlow-v1.0.33-arm64.dmg` |
+| macOS Intel | `TrackFlow-v1.0.33.dmg` |
+| Windows | `TrackFlow-v1.0.33-x64.zip` |
 
 Not sure which Mac you have? Click **Apple menu > About This Mac** and look for "Apple M" (Silicon) or "Intel" in the chip line.
 
@@ -24,7 +24,7 @@ Not sure which Mac you have? Click **Apple menu > About This Mac** and look for 
 
 ## Windows Installation
 
-1. Download `TrackFlow-v1.0.32-x64.zip`
+1. Download `TrackFlow-v1.0.33-x64.zip`
 2. **Right-click the zip > Extract All** into a folder — do NOT run the `.exe` directly from inside the zip
 3. Open the extracted folder
 4. Run `TrackFlow Setup.exe`
@@ -39,4 +39,4 @@ TrackFlow is a desktop time tracking agent. This repository contains official re
 Source code is maintained privately.
 
 ---
-Latest release: **v1.0.32**
+Latest release: **v1.0.33**
